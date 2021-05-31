@@ -1,2 +1,2 @@
 # bowboat
-reginakristie.github.io/bowboat/(bowboatfooont/index.html
+p5js (reginakristie.github.io/bowboat/bowboatfooont/index.html)
