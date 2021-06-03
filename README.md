@@ -1,2 +1,2 @@
 # bowboat 
-## p5js(https://reginakristie.github.io/bowboat/bowboatfooont/index.html)
+## p5js(https://reginakristie.github.io/bowboat/bowboatsampler/index.html)
